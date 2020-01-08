@@ -22,6 +22,7 @@
    hrs3300
    touchscreen
    cst816s
+   battery
    menuconfig
    flashing
    debugging
